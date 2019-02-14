@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 5 Factors Determine How Long Your Home Stays on the Market
-date:
+date: 2019-02-14 22:43:04
 tags:
   - Home Seller Tips
 excerpt: >-
