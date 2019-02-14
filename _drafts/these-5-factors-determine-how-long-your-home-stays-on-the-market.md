@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are five factors that determine the length of time a home stays on the
   market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Matthew+S.+Jaime/Matthew+S.+Jaime+and+Associates+_+These+5+Factors+Determine+How+Long+Your+Home+Stays+on+the+Market.mp4
 pullquote: >-
   You have to be careful about overpricing your house, as this can discourage
   buyers from visiting it in person.
