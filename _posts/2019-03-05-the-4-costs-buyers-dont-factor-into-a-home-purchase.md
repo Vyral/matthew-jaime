@@ -25,12 +25,12 @@ When buying a home, most people tend to look at the sticker price and forget abo
 
 <br>**2. Bringing cash to the table.** Most buyers are expecting to bring in their down payment and some money for closing costs. However, escrow may ask for additional payment for things such as home insurance or property taxes. Be prepared to come with additional funds.
 
-{% include youtube.html %}
+{% include pullquote.html %}
 
 **3. Moving costs.** Most buyers are surprised by how much it truly costs to move. You’ll need to hire a moving truck, pay for gas, and consider the amount of content you’re moving. Costs can easily add up to the thousands.
 
 **4. Immediate costs.** You’ll have to pay for some things right after you move in. Expect to have locksmiths replace locks, put down a few hundred dollars for a utility deposit, make fixes around the house, and more. Have a rainy day fund and be prepared for these problems as they arise.
 
-When you’re in the home, be prepared to pay for unexpected and routine maintenance. **Keep a six-month emergency fund**—you don’t want to use your credit cards and become saddled with those high-interest payments. 
+When you’re in the home, be prepared to pay for unexpected and routine maintenance. **Keep a six-month emergency fund**—you don’t want to use your credit cards and become saddled with those high-interest payments.&nbsp;
 
 If you have a suggestion for a future video topic, have any questions, or need more information, feel free to reach out to us. We look forward to hearing from you soon.
