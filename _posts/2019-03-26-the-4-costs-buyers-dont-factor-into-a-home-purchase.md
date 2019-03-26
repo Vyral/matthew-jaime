@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Costs Buyers Don’t Factor Into a Home Purchase
-date: 2019-03-05 22:43:00
+date: 2019-03-26 22:43:00
 tags:
   - Home Seller Tips
 excerpt: Don’t forget to account for these four costs during your next home purchase.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-5-buyer-costs-yt.jpg
-youtube_code: LRakwdr7qso
+youtube_code: 48mdTRgRDWg
 ---
 
 {% include youtube.html %}
@@ -31,6 +31,6 @@ When buying a home, most people tend to look at the sticker price and forget abo
 
 **4. Immediate costs.** You’ll have to pay for some things right after you move in. Expect to have locksmiths replace locks, put down a few hundred dollars for a utility deposit, make fixes around the house, and more. Have a rainy day fund and be prepared for these problems as they arise.
 
-When you’re in the home, be prepared to pay for unexpected and routine maintenance. **Keep a six-month emergency fund**—you don’t want to use your credit cards and become saddled with those high-interest payments.&nbsp;
+When you’re in the home, be prepared to pay for unexpected and routine maintenance. **Keep a six-month emergency fund**—you don’t want to use your credit cards and become saddled with those high-interest payments. 
 
 If you have a suggestion for a future video topic, have any questions, or need more information, feel free to reach out to us. We look forward to hearing from you soon.
