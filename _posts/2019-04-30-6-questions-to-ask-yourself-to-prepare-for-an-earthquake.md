@@ -33,9 +33,9 @@ With that in mind, here are six questions you need to ask yourself to know wheth
 
 {% include pullquote.html %}
 
-**4\. Do you have warm clothes and blankets put away?** Remember, your home won’t have heat when the gas and power are out.&nbsp;
+**4\. Do you have warm clothes and blankets put away?** Remember, your home won’t have heat when the gas and power are out. 
 
-**5\. Do you have flashlights and protection?** You don’t want to be stuck sitting in the dark, and you need to be able to defend your home and family if necessary.&nbsp;
+**5\. Do you have flashlights and protection?** You don’t want to be stuck sitting in the dark, and you need to be able to defend your home and family if necessary. 
 
 **6\. Do you need earthquake insurance as an extra layer of protection?** My answer to this is always “yes,” and I’d be happy to provide you with more information about it.
 
