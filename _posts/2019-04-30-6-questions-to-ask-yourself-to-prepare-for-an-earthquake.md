@@ -3,7 +3,6 @@ layout: post
 title: 6 Questions to Ask Yourself to Prepare for an Earthquake
 date: 2019-04-30 00:00:00
 tags:
-  - Other
 excerpt: >-
   There are six questions you must ask yourself to know whether you’re as
   prepared as you can be in the event of an earthquake.
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-30-earthquake-yt.jpg
-youtube_code: MjhH5NmHf6U
+youtube_code: v8FMNPvNNgY
 ---
 
 {% include youtube.html %}
@@ -33,9 +32,9 @@ With that in mind, here are six questions you need to ask yourself to know wheth
 
 {% include pullquote.html %}
 
-**4\. Do you have warm clothes and blankets put away?** Remember, your home won’t have heat when the gas and power are out. 
+**4\. Do you have warm clothes and blankets put away?** Remember, your home won’t have heat when the gas and power are out.&nbsp;
 
-**5\. Do you have flashlights and protection?** You don’t want to be stuck sitting in the dark, and you need to be able to defend your home and family if necessary. 
+**5\. Do you have flashlights and protection?** You don’t want to be stuck sitting in the dark, and you need to be able to defend your home and family if necessary.&nbsp;
 
 **6\. Do you need earthquake insurance as an extra layer of protection?** My answer to this is always “yes,” and I’d be happy to provide you with more information about it.
 
