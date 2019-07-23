@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Save for a Down Payment
-date: 2019-07-22 16:34:10
+date: 2019-07-22 16:34:00
 tags:
 excerpt: >-
   Saving for a down payment is hard, but it’s easier if you use a few smart
@@ -26,7 +26,7 @@ You may want to own a home, but simply can’t afford to buy right now. You’re
 
 **2\. Assess your spending habits.** Don’t just make a rough audit of your monthly rent, utilities, insurance, and grocery costs. Look into your monthly bank and credit statements to see where your money is going.&nbsp;
 
-**3\. Unload your stuff.** This can be done locally or online. Even niche items can be sold locally or online with services like Craigslist or ebay. You might not be sitting on a fortune, but in combination with your savings, it will make a difference.
+**3\. Unload your stuff.** This can be done locally or online. Even niche items can be sold locally or online with services like Craigslist or eBay. You might not be sitting on a fortune, but in combination with your savings, it will make a difference.
 
 **4\. Downsize your apartment.** Moving from a 3-bedroom to a 2-bedroom can save lots of cash without sacrificing too much space. It can also help you purge more unnecessary belongings. The smaller space creates lower heating and cooling bills, too.
 
