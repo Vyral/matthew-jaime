@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're Invited!
-date: 2019-08-01 17:19:29
+date: 2019-08-01 17:19:00
 tags:
   - Real Estate
 excerpt: 'We’re inviting you to join us on Saturday, August 10, at 6 p.m.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3pdXrslS67E
+youtube_code: rHs6UPxuzZM
 ---
 
 {% include youtube.html %}
