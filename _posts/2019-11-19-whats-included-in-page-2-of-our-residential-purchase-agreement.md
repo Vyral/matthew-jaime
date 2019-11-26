@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whats included in Page 2 of our Residential Purchase Agreement
+title: What's included in Page 2 of our Residential Purchase Agreement
 date: 2019-11-19 21:48:00
 tags:
   - Real Estate
