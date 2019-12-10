@@ -8,13 +8,13 @@ excerpt: >-
   Christmas is nearly here and we wanted to wish you and your family the best
   this year. Here’s our holiday message.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Matthew+S.+Jaime/Wishing+You+the+Merriest+Christmas+Ever.mp4
+  https://vyralmarketing.s3.amazonaws.com/Matthew+S.+Jaime/Wishing+You+the+Merriest+Christmas+Ever+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/christmasyt.jpg
-youtube_code: gRVUNmjB4xs
+youtube_alternate_image: /uploads/christmasyt-1.jpg
+youtube_code: 8TqcRCB98gA
 ---
 
 {% include youtube.html %}
