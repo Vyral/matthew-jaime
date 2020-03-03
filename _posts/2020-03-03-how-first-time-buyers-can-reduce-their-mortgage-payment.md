@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How First-Time Buyers Can Reduce Their Mortgage Payment
-date:
+date: 2020-03-03 18:59:46
 tags:
 excerpt: >-
   We encourage our buyers to get pre-approved through our in-house mortgage
@@ -15,6 +15,10 @@ youtube_alternate_image: /uploads/preapproval-yt-matthew-jaime.jpg
 youtube_code: TNItBVIqzMI
 ---
 
-{% include youtube.html %}<center>We encourage our buyers to get pre-approved through our in-house mortgage group, American Loan Corporation. Here’s why.</center>
+{% include youtube.html %}
+
+<center>We encourage our buyers to get pre-approved through our in-house mortgage group, American Loan Corporation. Here&rsquo;s why.</center>
+
+&nbsp;
 
 Most first-time homebuyers need to get pre-approved to understand what their monthly mortgage payment will be. That being said, we always encourage our buyers to get pre-approved through our in-house mortgage group: American Loan Corporation. ALC has been fortunate enough to partner with the city of Los Angeles to offer down payment assistance up to $90,000. This sum can reduce your monthly mortgage payment from $300 to $800 per month. If you’d like to know more about getting pre-approved or how ALC can help you, don’t hesitate to reach out to me. I’d love to speak with you. To see my full message, watch this short video.
