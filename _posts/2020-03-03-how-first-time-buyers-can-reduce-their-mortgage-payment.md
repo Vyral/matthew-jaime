@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How First-Time Buyers Can Reduce Their Mortgage Payment
-date: 2020-03-03 18:59:46
+date: 2020-03-03 18:59:00
 tags:
 excerpt: >-
   We encourage our buyers to get pre-approved through our in-house mortgage
@@ -17,7 +17,7 @@ youtube_code: TNItBVIqzMI
 
 {% include youtube.html %}
 
-<center>We encourage our buyers to get pre-approved through our in-house mortgage group, American Loan Corporation. Here&rsquo;s why.</center>
+<center>We encourage our buyers to get pre-approved through our in-house mortgage group, American Loan Corporation. Here&rsquo;s why.&nbsp;</center>
 
 &nbsp;
 
