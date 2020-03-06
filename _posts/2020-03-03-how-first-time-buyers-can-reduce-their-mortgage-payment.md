@@ -6,12 +6,13 @@ tags:
 excerpt: >-
   We encourage our buyers to get pre-approved through our in-house mortgage
   group, American Loan Corporation. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Matthew+S.+Jaime/2020/How+First-Time+Buyers+Can+Reduce+Their+Mortgage+Payment.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/preapproval-email-matthew-jaime.jpg
+youtube_alternate_image: /uploads/preapproval-yt-matthew-jaime-1.jpg
 youtube_code: TNItBVIqzMI
 ---
 
